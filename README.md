@@ -66,3 +66,12 @@ A simple API has been created for the website from which it is possible to downl
 
 ![App Screenshot](static/images/Screenshot%202022-07-30%20at%2018.12.08.png)
 
+
+## App views
+
+
+
+![App Screenshot](static/images/Screenshot%202022-07-30%20at%2016.48.50.png)
+![App Screenshot](static/images/Screenshot%202022-07-30%20at%2016.48.37.png)
+![App Screenshot](static/images/Screenshot%202022-07-30%20at%2016.48.19.png)
+![App Screenshot](static/images/Screenshot%202022-07-30%20at%2016.48.05.png)
